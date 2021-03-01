@@ -104,3 +104,33 @@ Launch: The application was launched at 01.03.2021 22:21:33
 Launch: The application was launched at 01.03.2021 22:31:59
 ([01.03.2021 22:32:04], Type: Launched): The application was launched (5.51.7730.40513).
 ([01.03.2021 22:33:20], Type: Exit): The user has closed the application.
+([01.03.2021 22:36:28], Type: Launched): The application was launched (5.51.7730.40513).
+([01.03.2021 22:37:04], Type: Exit): The user has closed the application.
+([01.03.2021 22:37:11], Type: Launched): The application was launched (5.51.7730.40513).
+([01.03.2021 22:37:14], Type: ApplicationUpdater): App updater:
+Found a new version: 5.51.7730.40652
+Trying update...
+([01.03.2021 22:37:18], Type: Launched): The application was launched (v.5.51.7730.40652).
+([01.03.2021 22:37:54], Type: Exit): The user has closed the application.
+([01.03.2021 23:41:14], Type: Launched): The application was launched (v.0.0.7730.42632).
+([01.03.2021 23:42:16], Type: Launched): The application was launched (v.0.0.7730.42665).
+([01.03.2021 23:43:46], Type: Launched): The application was launched (v.0.0.7730.42710).
+([01.03.2021 23:44:06], Type: Error): The user got some error:
+Филиал - 12 отряд ФКУ "ГУ "ВО Минфина России":BGU_SM_TRUE, Code: 1 (Failed)
+([01.03.2021 23:44:17], Type: ChangedStateModel): The User changed state model OneC.
+УФНС РОССИИ ПО ЯРОСЛАВСКОЙ ОБЛАСТИ:BGU_SM_TRUE
+
+([01.03.2021 23:45:57], Type: Error): The user got some error:
+Филиал - 12 отряд ФКУ "ГУ "ВО Минфина России":BGU_SM_TRUE, Code: 1 (Failed)
+([01.03.2021 23:46:26], Type: ChangedStateModel): The User changed state model OneC.
+УФНС РОССИИ ПО ЯРОСЛАВСКОЙ ОБЛАСТИ:BGU_SM_TRUE
+
+([01.03.2021 23:46:52], Type: Error): The user got some error:
+Филиал - 12 отряд ФКУ "ГУ "ВО Минфина России":FORFAVORITEORSELECTED, Code: 1 (Failed)
+([01.03.2021 23:47:08], Type: ChangedStateModel): The User changed state model OneC.
+УФНС РОССИИ ПО ЯРОСЛАВСКОЙ ОБЛАСТИ:FORFAVORITEORSELECTED
+
+([01.03.2021 23:47:35], Type: Error): The user got some error:
+Филиал - 12 отряд ФКУ "ГУ "ВО Минфина России":BGU_SM_TRUE, Code: 1 (Failed)
+([01.03.2021 23:47:46], Type: ChangedStateModel): The User changed state model OneC.
+УФНС РОССИИ ПО ЯРОСЛАВСКОЙ ОБЛАСТИ:BGU_SM_TRUE
