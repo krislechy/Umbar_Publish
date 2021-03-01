@@ -55,3 +55,4 @@ Code: 1 (Failed)
 УФНС РОССИИ ПО ЯРОСЛАВСКОЙ ОБЛАСТИ:BGU_SM_TRUE
 ([01.03.2021 21:39:19], Type: ChangedStateModel): The User changed state model OneC.
 ФГКУ "ЦЕНТРРЕЗЕРВ":BGU_SM_TRUE
+([01.03.2021 21:42:57], Type: Launched): The application was launched.
