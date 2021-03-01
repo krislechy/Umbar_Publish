@@ -37,3 +37,4 @@ Request(s) received: 44
 Code: 1 (Failed)
 ([01.03.2021 21:32:58], Type: ChangedStateModel): The User changed state model OneC.
 Code: 1 (Failed)
+([01.03.2021 21:34:10], Type: Launched): The application was launched.
