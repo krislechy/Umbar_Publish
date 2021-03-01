@@ -107,3 +107,6 @@ Launch: The application was launched at 01.03.2021 22:31:59
 ([01.03.2021 22:36:28], Type: Launched): The application was launched (5.51.7730.40513).
 ([01.03.2021 22:37:04], Type: Exit): The user has closed the application.
 ([01.03.2021 22:37:11], Type: Launched): The application was launched (5.51.7730.40513).
+([01.03.2021 22:37:14], Type: ApplicationUpdater): App updater:
+Found a new version: 5.51.7730.40652
+Trying update...
