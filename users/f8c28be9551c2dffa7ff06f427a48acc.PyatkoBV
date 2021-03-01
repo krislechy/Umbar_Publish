@@ -35,3 +35,5 @@ Request(s) received: 44
 УФНС РОССИИ ПО БЕЛГОРОДСКОЙ ОБЛАСТИ:BGU_SM_TRUE
 ([01.03.2021 21:32:23], Type: ChangedStateModel): The User changed state model OneC.
 Code: 1 (Failed)
+([01.03.2021 21:32:58], Type: ChangedStateModel): The User changed state model OneC.
+Code: 1 (Failed)
