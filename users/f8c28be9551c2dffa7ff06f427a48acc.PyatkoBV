@@ -129,3 +129,6 @@ Trying update...
 Филиал - 12 отряд ФКУ "ГУ "ВО Минфина России":FORFAVORITEORSELECTED, Code: 1 (Failed)
 ([01.03.2021 23:47:08], Type: ChangedStateModel): The User changed state model OneC.
 УФНС РОССИИ ПО ЯРОСЛАВСКОЙ ОБЛАСТИ:FORFAVORITEORSELECTED
+
+([01.03.2021 23:47:35], Type: Error): The user got some error:
+Филиал - 12 отряд ФКУ "ГУ "ВО Минфина России":BGU_SM_TRUE, Code: 1 (Failed)
