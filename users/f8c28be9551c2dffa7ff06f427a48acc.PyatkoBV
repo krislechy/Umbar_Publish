@@ -47,3 +47,5 @@ Code: 1 (Failed)
 УФНС РОССИИ ПО ТВЕРСКОЙ ОБЛАСТИ:BGU_SM_TRUE
 ([01.03.2021 21:36:12], Type: ChangedStateModel): The User changed state model OneC.
 УФНС РОССИИ ПО ЯРОСЛАВСКОЙ ОБЛАСТИ:BGU_SM_TRUE
+([01.03.2021 21:37:33], Type: Error): The user got some error:
+Филиал - 12 отряд ФКУ "ГУ "ВО Минфина России":BGU_SM_TRUE, Code: 1 (Failed)
