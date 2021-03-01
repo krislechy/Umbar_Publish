@@ -88,3 +88,5 @@ Code: 1 (Failed)
 ([01.03.2021 22:04:54], Type: ChangedStateModel): The User changed state model OneC.
 УФНС РОССИИ ПО БРЯНСКОЙ ОБЛАСТИ:BGU_SM_TRUE
 УФНС РОССИИ ПО БЕЛГОРОДСКОЙ ОБЛАСТИ:BGU_SM_TRUE
+
+([01.03.2021 22:16:53], Type: Launched): The application was launched.
