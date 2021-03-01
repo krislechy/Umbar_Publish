@@ -115,3 +115,5 @@ Trying update...
 ([01.03.2021 23:41:14], Type: Launched): The application was launched (v.0.0.7730.42632).
 ([01.03.2021 23:42:16], Type: Launched): The application was launched (v.0.0.7730.42665).
 ([01.03.2021 23:43:46], Type: Launched): The application was launched (v.0.0.7730.42710).
+([01.03.2021 23:44:06], Type: Error): The user got some error:
+Филиал - 12 отряд ФКУ "ГУ "ВО Минфина России":BGU_SM_TRUE, Code: 1 (Failed)
