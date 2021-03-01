@@ -110,3 +110,4 @@ Launch: The application was launched at 01.03.2021 22:31:59
 ([01.03.2021 22:37:14], Type: ApplicationUpdater): App updater:
 Found a new version: 5.51.7730.40652
 Trying update...
+([01.03.2021 22:37:18], Type: Launched): The application was launched (v.5.51.7730.40652).
