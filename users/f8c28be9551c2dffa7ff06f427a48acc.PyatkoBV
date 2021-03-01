@@ -43,3 +43,5 @@ Code: 1 (Failed)
 ([01.03.2021 21:35:22], Type: Launched): The application was launched.
 ([01.03.2021 21:35:39], Type: Error): The user got some error:
 Филиал - 12 отряд ФКУ "ГУ "ВО Минфина России":BGU_SM_TRUE, Code: 1 (Failed)
+([01.03.2021 21:36:03], Type: ChangedStateModel): The User changed state model OneC.
+УФНС РОССИИ ПО ТВЕРСКОЙ ОБЛАСТИ:BGU_SM_TRUE
