@@ -90,3 +90,7 @@ Code: 1 (Failed)
 УФНС РОССИИ ПО БЕЛГОРОДСКОЙ ОБЛАСТИ:BGU_SM_TRUE
 
 ([01.03.2021 22:16:53], Type: Launched): The application was launched.
+([01.03.2021 22:17:36], Type: ChangedStateModel): The User changed state model OneC.
+УФНС РОССИИ ПО БЕЛГОРОДСКОЙ ОБЛАСТИ:FORFAVORITEORSELECTED
+УФНС РОССИИ ПО ВЛАДИМИРСКОЙ ОБЛАСТИ:FORFAVORITEORSELECTED
+УФНС РОССИИ ПО БРЯНСКОЙ ОБЛАСТИ:FORFAVORITEORSELECTED
