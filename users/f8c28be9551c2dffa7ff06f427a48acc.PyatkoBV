@@ -27,3 +27,5 @@ Request(s) received: 44
 ([01.03.2021 21:29:27], Type: Launched): The application was launched.
 ([01.03.2021 21:29:51], Type: ChangedStateModel): The User changed state model OneC.
 УФНС РОССИИ ПО БЕЛГОРОДСКОЙ ОБЛАСТИ:BGU_SM_TRUE
+([01.03.2021 21:30:12], Type: ChangedStateModel): The User changed state model OneC.
+УФНС РОССИИ ПО БРЯНСКОЙ ОБЛАСТИ:BGU_SM_TRUE
