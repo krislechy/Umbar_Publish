@@ -56,5 +56,7 @@ Code: 1 (Failed)
 ([01.03.2021 21:39:19], Type: ChangedStateModel): The User changed state model OneC.
 ФГКУ "ЦЕНТРРЕЗЕРВ":BGU_SM_TRUE
 ([01.03.2021 21:42:57], Type: Launched): The application was launched.
-([01.03.2021 21:43:26], Type: ChangedStateModel): The User changed state model OneC.
-УФНС РОССИИ ПО ТАМБОВСКОЙ ОБЛАСТИ:BGU_SM_TRUE
+([01.03.2021 21:43:25], Type: Error): The user got some error:
+УФНС РОССИИ ПО ЛИПЕЦКОЙ ОБЛАСТИ:BGU_SM_TRUE, Code: 1 (Failed)
+([01.03.2021 21:43:27], Type: ChangedStateModel): The User changed state model OneC.
+ФКУ "ГБ МСЭ ПО ИВАНОВСКОЙ ОБЛАСТИ" МИНТРУДА РОССИИ:BGU_SM_TRUE
