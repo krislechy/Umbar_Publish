@@ -29,3 +29,5 @@ Request(s) received: 3
 Request(s) received: 3
 ([02.03.2021 13:46:02], Type: CreatedTasksForRequest): The User created task(s) request(s) NSD.
 1 requests.
+([02.03.2021 13:46:12], Type: CompletedCreatedRequest): The User created request(s) NSD.
+SD1826608 request created.
