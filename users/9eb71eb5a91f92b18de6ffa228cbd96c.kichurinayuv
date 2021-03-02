@@ -3,3 +3,5 @@ Launch: The application was launched at 02.03.2021 8:39:22
 ([02.03.2021 8:39:26], Type: Launched): The application was launched (v.5.51.7730.42879).
 ([02.03.2021 8:40:19], Type: ReceivedMyRequest): The User received their request(s) from NSD.
 Request(s) received: 4
+([02.03.2021 10:17:27], Type: ReceivedMyRequest): The User received their request(s) from NSD.
+Request(s) received: 3
