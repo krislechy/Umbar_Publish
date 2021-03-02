@@ -48,3 +48,5 @@ Launch: The application was launched at 02.03.2021 11:57:35
 
 ([02.03.2021 18:57:14], Type: ChangedStateModel): The User changed state model OneC.
 ФКУ УПРДОР МОСКВА-ХАРЬКОВ:ZKGU_SM_TRUE
+
+([02.03.2021 19:08:26], Type: Launched): The application was launched (v.5.51.7730.42879).
