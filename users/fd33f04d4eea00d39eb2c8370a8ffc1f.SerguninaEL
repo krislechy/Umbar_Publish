@@ -50,3 +50,6 @@ Launch: The application was launched at 02.03.2021 11:57:35
 ФКУ УПРДОР МОСКВА-ХАРЬКОВ:ZKGU_SM_TRUE
 
 ([02.03.2021 19:08:26], Type: Launched): The application was launched (v.5.51.7730.42879).
+([02.03.2021 19:08:29], Type: ApplicationUpdater): App updater:
+Found a new version: v.5.51.7731.22615
+Trying update...
